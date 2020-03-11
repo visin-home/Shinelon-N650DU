@@ -42,6 +42,7 @@ This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J.
 7. 亮度可调 OK.
 8. HDMI&音频 OK.
 ### 不工作&不完善:
+
 1. SD 卡,应该能驱动,但速度很慢,没搞它,也用不到.
 2. 键盘按键基本是适配的,但亮度调节快捷键不行,暂时的解决办法是插入一个外接键盘,然后指定调节亮度的按键.
 3. 外接显示器的话,需要开机进入桌面以后再插入 HDMI 外接显示器.
