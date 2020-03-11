@@ -3,7 +3,7 @@
 This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J. 
 
 [![release](https://img.shields.io/badge/下载-release-blue.svg)](https://github.com/visin-home/Shinelon-N650DU/releases) 
- 
+
 
 ## 电脑配置
 
@@ -23,10 +23,11 @@ This repository provides OpenCore configuration files for Shinelon-N650DU-QN8J.
 ## 详情
     之前用的是 Clover 引导,但太臃肿了,不好维护,再加上很多驱动已经不对 Clover 进行测试了,所以转为了 OpenCore 进行引导.
     这个引导主要是 @Tian羽 完成的,我只是稍微做了下修改.    
-原贴地址:
-    [http://bbs.pcbeta.com/viewthread-1833314-1-1.html](http://bbs.pcbeta.com/viewthread-1833314-1-1.html).
+原贴地址:[http://bbs.pcbeta.com/viewthread-1833314-1-1.html](http://bbs.pcbeta.com/viewthread-1833314-1-1.html).
+
 感谢 @Tian羽 的辛勤付出.
-再他的基础上,我做了如下工作:
+		再他的基础上,我做了如下工作:
+
 1. 添加 CPUFriend.kext,低频 800MHz.
 2. GPU 帧缓冲修复.
 3. Duang 一声开机声音.
