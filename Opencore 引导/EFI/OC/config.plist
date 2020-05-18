@@ -798,16 +798,16 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VMPYFHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>29DF9E10-071B-4148-914C-5A43D8B8E541</string>
+			<string></string>
 		</dict>
 		<key>Generic</key>
 		<dict>
 			<key>AdviseWindows</key>
 			<true/>
 			<key>MLB</key>
-			<string>C02744104J9HWVPUE</string>
+			<string></string>
 			<key>ROM</key>
 			<data>sDKwuOVB</data>
 			<key>SpoofVendor</key>
@@ -815,9 +815,9 @@
 			<key>SystemProductName</key>
 			<string>MacBookPro14,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VMPYFHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>29DF9E10-071B-4148-914C-5A43D8B8E541</string>
+			<string></string>
 		</dict>
 		<key>PlatformNVRAM</key>
 		<dict>
@@ -828,7 +828,7 @@
 			<key>FirmwareFeaturesMask</key>
 			<data>f/8f/wAAAAA=</data>
 			<key>MLB</key>
-			<string>C02744104J9HWVPUE</string>
+			<string></string>
 			<key>ROM</key>
 			<data>sDKwuOVB</data>
 		</dict>
@@ -849,7 +849,7 @@
 			<key>BoardProduct</key>
 			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>BoardSerialNumber</key>
-			<string>C02VMPYFHV29</string>
+			<string></string>
 			<key>BoardType</key>
 			<integer>10</integer>
 			<key>BoardVersion</key>
@@ -859,7 +859,7 @@
 			<key>ChassisManufacturer</key>
 			<string>Apple Inc.</string>
 			<key>ChassisSerialNumber</key>
-			<string>C02VMPYFHV29</string>
+			<string></string>
 			<key>ChassisType</key>
 			<integer>9</integer>
 			<key>ChassisVersion</key>
@@ -885,9 +885,9 @@
 			<key>SystemSKUNumber</key>
 			<string>Mac-B4831CEBD52A0C4C</string>
 			<key>SystemSerialNumber</key>
-			<string>C02VMPYFHV29</string>
+			<string></string>
 			<key>SystemUUID</key>
-			<string>29DF9E10-071B-4148-914C-5A43D8B8E541</string>
+			<string></string>
 			<key>SystemVersion</key>
 			<string>1.0</string>
 		</dict>
